@@ -1,0 +1,7 @@
+Buenas tardes: dejé agregado mi última versión.
+Dado que la tabla de la base de datos llamada novedades se dañó (lo que desconozco por qué)
+les adjunto en este modelo la página web con todos los archivos (menos el node-modules) y la base de datos que tenía
+en el repositorio Github.
+El nombre de Usuario es Mario, el password es 1234.
+Espero que les funcione bien y les guste.
+Saludos
